@@ -1,0 +1,5 @@
+{
+  "name": "Cross-Platform Screen Mirroring Prototype",
+  "description": "A WebRTC-based screen mirroring and remote control prototype demonstrating the core architecture of an AnyDesk/AirDroid clone.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"]
+}
